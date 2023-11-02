@@ -1,0 +1,25 @@
+<?php
+
+/**
+ * This file is part of fellowship/one-ring
+ *
+ * @copyright Copyright (c) Samwise Gamgee
+ * @license https://opensource.org/license/mit-0/ MIT No Attribution
+ */
+
+declare(strict_types=1);
+
+namespace Foo;
+
+/**
+ * Class description
+ */
+class Baz
+{
+    /**
+     * Method description
+     */
+    public function __construct()
+    {
+    }
+}

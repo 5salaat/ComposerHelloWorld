@@ -1,0 +1,19 @@
+<?php
+
+/**
+ * This file is part of fellowship/one-ring
+ *
+ * @copyright Copyright (c) Samwise Gamgee <https://example.com/fellowship>
+ * @license https://opensource.org/license/mit/ MIT License
+ */
+
+declare(strict_types=1);
+
+namespace Foo;
+
+/**
+ * Class description
+ */
+class Bar
+{
+}

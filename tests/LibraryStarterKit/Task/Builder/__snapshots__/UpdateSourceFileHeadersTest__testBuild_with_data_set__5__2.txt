@@ -1,0 +1,25 @@
+<?php
+
+/**
+ * This file is part of fellowship/one-ring
+ *
+ * @copyright Copyright (c) Samwise Gamgee
+ * @license https://spdx.org/licenses/Hippocratic-2.1.html Hippocratic License 2.1
+ */
+
+declare(strict_types=1);
+
+namespace Foo;
+
+/**
+ * Class description
+ */
+class Baz
+{
+    /**
+     * Method description
+     */
+    public function __construct()
+    {
+    }
+}
